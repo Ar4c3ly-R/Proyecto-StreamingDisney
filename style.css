@@ -1,0 +1,190 @@
+.body{
+    margin: 0px;
+    background-color: rgba(16, 15, 19, 0.952);
+    background-color: ;
+}
+.Nav{
+    display: grid;
+    grid-template-columns: 10% 8% 8% 8% 8% 8% 8% 42%;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    background-color: rgba(19, 17, 23, 0.952);
+    color: white;
+    height:90px;
+}
+.logo{
+    height: 40px;
+    padding-left: 30px;
+}
+#usuario{
+    height: 40px;
+}
+.usuario{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 20px;
+    font-weight: bolder;
+}
+.text_nav{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.texto{
+    display: grid;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    align-content: flex-start;
+}
+.texto:hover{
+    color: white;
+    text-decoration: underline 3px;
+}
+.iconos{
+    height: 20px;
+    justify-self: flex-end;
+}
+.signo{
+    display: flex;
+    justify-content:flex-end;
+}
+.carousel-inner{
+    padding-top: 0px;
+    padding-left: 110px;
+}
+.imag-carrusel{
+    height: 350px;
+    width: 1300px;
+    border-radius: 5px;
+}
+.imag-carrusel:hover{
+    border: 3px solid;
+    border-color: gray;
+}
+.titulos{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+}
+.estudios{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.imag-estudios{
+    border-radius: 10px;
+    height: 140px;
+    background-color: rgba(58, 57, 62, 0.523);
+    border: 3px solid;
+    border-color: gray;
+}
+.imag-estudios:hover{
+    height: 142px;
+}
+#marvel{
+    padding: 10px 10px 10px 10px;
+}
+.section{
+    padding-top: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.carousel-inner2{
+    padding-left: 40px;
+}
+.imag-pelis{
+    height: 130px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.imag-pelis:hover{
+    border: 3px solid;
+    border-color: gray;
+}
+.button-carousel2{
+    padding-top: 120px;
+    margin: 0px;
+}
+.carousel-inner3{
+    padding-left: 40px;
+}
+.button-carousel3{
+    padding-top: 120px;
+}
+#continuarViendo{
+    padding-top: 80px;
+}
+#imag-cont{
+    padding-left: 45px;
+}
+#imag-viendo{
+    padding-left: 0px;
+}
+.muyPronto{
+    display: flex;
+    justify-content: space-around;
+}
+.imag-pelisP{
+    height: 300px;
+    border-radius: 5px;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+.imag-pelisP:hover{
+    border: 3px solid;
+    border-color: gray;
+    padding: 0px;
+    margin: 0px;
+}
+.carousel-inner4{
+    padding-left: 40px;
+}
+.button-carousel4{
+    padding-top: 120px;
+}
+#ultimaSeccion{
+    padding-bottom: 80px;
+}
+.footer{
+    background-color: rgba(19, 17, 23, 0.952);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: rgb(226, 223, 223);
+    font-family:'Lucida S';
+    font-size: smaller;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.logo_inferior{
+    height: 50px;
+    padding-left: 30px;
+    justify-self: center;
+}
+.datos{
+    justify-self: center;
+    font-family:sans-serif;
+    font-size: smaller;
+    color:rgb(199, 196, 196);
+}
+.datos1{
+    text-decoration: none;
+    color: rgb(199, 196, 196);
+}
+.datos1:hover{
+    text-decoration: none;
+    color: rgb(246, 246, 246);
+}
